@@ -1,10 +1,14 @@
-mkdir
-cd
-pwd
-rm
+mkdir New-folder
+cd Desktop/
 ls
-find
+rm -fr New-folder
+mkdir pasta
+rm arquivo
+find . -name index.js
+pwd
 echo
-curl
-less
+git init
+git status
+git clone
+git commit -m "exemplo"
 cp
