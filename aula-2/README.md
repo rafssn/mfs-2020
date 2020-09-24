@@ -1,0 +1,10 @@
+mkdir
+cd
+pwd
+rm
+ls
+find
+echo
+curl
+less
+cp
